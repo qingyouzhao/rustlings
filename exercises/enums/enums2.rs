@@ -6,6 +6,10 @@
 #[derive(Debug)]
 enum Message {
     // TODO: define the different variants used below
+    Move{x:i32, y:i32}, // Just struct inline def is good enough
+    Echo(String),
+    ChangeColor(i32,i32,i32),
+    Quit,
 }
 
 impl Message {
