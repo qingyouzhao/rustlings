@@ -1,7 +1,7 @@
 // enums2.rs
 // Make me compile! Execute `rustlings hint enums2` for hints!
 
-// I AM NOT DONE
+// I AM DONE
 
 #[derive(Debug)]
 enum Message {

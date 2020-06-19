@@ -1,7 +1,7 @@
 // functions2.rs
 // Make me compile! Execute `rustlings hint functions2` for hints :)
 
-// I AM NOT DONE
+
 
 fn main() {
     call_me(3);
